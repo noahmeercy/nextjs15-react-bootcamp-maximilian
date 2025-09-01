@@ -49,5 +49,3 @@ Fundador do Academind, mais de 2.000.000 alunos na Udemy
 > *Este repositório contém anotações, exemplos, projetos e exercícios realizados ao longo do curso, visando fixar os principais conceitos de NextJS 15 e React, incluindo App Router, Pages Router, SSR, SSG, APIs, autenticação e melhores práticas para aplicações modernas.*
 
 ---
-
-Mal posso esperar para começar essa jornada junto com você! 🚀
